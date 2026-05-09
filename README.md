@@ -2,7 +2,7 @@
 
 > **Cost-Aware Bitcoin Node Diagnostics via Actor-Critic RL with Multi-scale Belief Estimation**
 >
-> 📄 *Submitted to ACM ICAIF 2025* | 🏫 Goldsmiths, University of London | ✍️ Seonwoo Kim
+>  🏫 Goldsmiths, University of London | ✍️ Seonwoo Kim
 
 ---
 
